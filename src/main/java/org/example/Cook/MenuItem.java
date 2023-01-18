@@ -12,6 +12,10 @@ public class MenuItem {
         this.price = price;
     }
 
+    public boolean matches(String name) {
+        return this.name.equals(name);
+    }
+
     public String getName() {
         return name;
     }
