@@ -1,3 +1,5 @@
+package org.example.arithmeticOperations;
+
 import java.util.Arrays;
 
 public enum ArithmeticOperator {

@@ -1,4 +1,6 @@
-import calculate.*;
+package org.example.arithmeticOperations;
+
+import org.example.arithmeticOperations.calculate.*;
 
 import java.util.List;
 
